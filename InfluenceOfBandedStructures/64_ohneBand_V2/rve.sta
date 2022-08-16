@@ -1,0 +1,62 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 10/11/2021 18:48:32
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.22197045220269096 
+
+Needed 87-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 182 Ferrite-Points for the matrix! 
+The total conti volume is: 21159.298733950855 
+The total discrete volume is: 20662.60528564453 
+Sampled 87 Martensite-Islands for the matrix! 
+The total conti volume is: 7422.951969387234 
+The total discrete volume is: 7254.890441894531 
+
+Elapsed time for normal RSA: 0:28:38.619480
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 48.156357%
+Packingratio: 55.611801%
+Packingratio: 63.514328%
+Packingratio: 71.590805%
+Packingratio: 79.193115%
+Packingratio: 85.952377%
+Packingratio: 91.389465%
+Packingratio: 95.291138%
+Packingratio: 97.388077%
+Packingratio: 98.374557%
+Packingratio: 98.900604%
+Packingratio: 99.218369%
+Packingratio: 99.393845%
+Packingratio: 99.506760%
+Packingratio: 99.589539%
+Packingratio: 99.639130%
+Packingratio: 99.686432%
+Packingratio: 99.747086%
+Packingratio: 99.825668%
+Packingratio: 99.900818%
+Packingratio: 99.939346%
+Packingratio: 99.966049%
+Packingratio: 99.993134%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 1:06:47.456135
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Nothing despite grains in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
