@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 06/12/2021 16:50:13
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.2108213636610243 
+The Ideal volume is: 21307.8232
+The Ideal volume is: 5692.1768
+Needed 192-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 164 Ferrite-Points for the matrix! 
+The total conti volume is: 21608.174256939074 
+The total discrete volume is: 21099.002838134766 
+Sampled 185 Martensite-Islands for the matrix! 
+The total conti volume is: 5874.666699416966 
+The total discrete volume is: 5742.794036865234 
+
+Elapsed time for normal RSA: 0:51:16.580626
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 58.535385%
+Packingratio: 67.813873%
+Packingratio: 76.961899%
+Packingratio: 84.991837%
+Packingratio: 91.281128%
+Packingratio: 95.093536%
+Packingratio: 96.918869%
+Packingratio: 97.737503%
+Packingratio: 98.158646%
+Packingratio: 98.469543%
+Packingratio: 98.694992%
+Packingratio: 98.863983%
+Packingratio: 98.968124%
+Packingratio: 99.076843%
+Packingratio: 99.206161%
+Packingratio: 99.315262%
+Packingratio: 99.412537%
+Packingratio: 99.584579%
+Packingratio: 99.682999%
+Packingratio: 99.782181%
+Packingratio: 99.847794%
+Packingratio: 99.915314%
+Packingratio: 99.960327%
+Packingratio: 99.991608%
+Packingratio: 99.998474%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 0:36:23.734566
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Nothing despite grains in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
