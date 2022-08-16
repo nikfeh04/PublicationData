@@ -1,0 +1,72 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 06/12/2021 23:10:28
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.2384397718641493 
+The Ideal volume is: 20562.1262
+The Ideal volume is: 6437.8738
+Needed 267-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 172 Ferrite-Points for the matrix! 
+The total conti volume is: 20613.319858818246 
+The total discrete volume is: 20129.69970703125 
+Sampled 265 Martensite-Islands for the matrix! 
+The total conti volume is: 6858.008149622053 
+The total discrete volume is: 6701.282501220703 
+
+Elapsed time for normal RSA: 0:59:14.232790
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 59.585953%
+Packingratio: 69.986343%
+Packingratio: 80.002594%
+Packingratio: 88.248444%
+Packingratio: 94.049835%
+Packingratio: 96.774673%
+Packingratio: 97.847748%
+Packingratio: 98.375320%
+Packingratio: 98.716736%
+Packingratio: 98.898315%
+Packingratio: 99.057007%
+Packingratio: 99.199677%
+Packingratio: 99.325180%
+Packingratio: 99.422073%
+Packingratio: 99.538040%
+Packingratio: 99.703598%
+Packingratio: 99.724197%
+Packingratio: 99.754333%
+Packingratio: 99.772263%
+Packingratio: 99.800491%
+Packingratio: 99.827957%
+Packingratio: 99.865723%
+Packingratio: 99.897766%
+Packingratio: 99.926758%
+Packingratio: 99.941635%
+Packingratio: 99.953461%
+Packingratio: 99.959946%
+Packingratio: 99.967575%
+Packingratio: 99.977875%
+Packingratio: 99.988556%
+Packingratio: 99.992752%
+Packingratio: 99.998093%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 0:45:49.276035
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Nothing despite grains in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
