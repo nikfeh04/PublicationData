@@ -1,0 +1,111 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 08/12/2021 09:08:41
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.05757183498806423 
+The Ideal volume is: 1409.1797
+Needed 452-Loops to sample points for the bands!
+
+RVE generation process has started with Band-creation 
+The total volume of the RVE is 30*30*30 = 27000 
+Sampled 291 Martensite-Points for band-Creation! 
+The total conti volume is: 1503.1137925036037 
+The total discrete volume is: 1469.970703125 
+Band generator - Bandwidth: [1.20442708], Left bound: [19.39778646] and Right bound: [20.60221354]
+Total number of attempts needed: 972
+
+The Ideal volume is: 1713.8672
+Needed 314-Loops to sample points for the bands!
+
+
+ Band number 2
+Sampled 246 Martensite-Points for band-Creation! 
+The total conti volume is: 1800.450912515645 
+The total discrete volume is: 1760.5247497558594 
+Band generator - Bandwidth: [1.46484375], Left bound: [26.26757812] and Right bound: [27.73242188]
+Total number of attempts needed: 1812
+
+The Ideal volume is: 1904.2969
+Needed 310-Loops to sample points for the bands!
+
+
+ Band number 3
+Sampled 250 Martensite-Points for band-Creation! 
+The total conti volume is: 2005.2788659940675 
+The total discrete volume is: 1953.8497924804688 
+Band generator - Bandwidth: [1.62760417], Left bound: [6.18619792] and Right bound: [7.81380208]
+Total number of attempts needed: 1049
+
+Elapsed time for band creation: 0:45:19.945586
+
+The Ideal volume is: 20707.6501
+The Ideal volume is: 1331.7985
+Needed 78-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 170 Ferrite-Points for the matrix! 
+The total conti volume is: 20940.976186096756 
+The total discrete volume is: 20452.388763427734 
+Sampled 76 Martensite-Islands for the matrix! 
+The total conti volume is: 1515.518051647198 
+The total discrete volume is: 1478.1074523925781 
+
+Elapsed time for normal RSA: 0:27:20.487752
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 55.094528%
+Packingratio: 63.264465%
+Packingratio: 71.436691%
+Packingratio: 79.389572%
+Packingratio: 86.325455%
+Packingratio: 91.385269%
+Packingratio: 93.864441%
+Packingratio: 95.143127%
+Packingratio: 95.982742%
+Packingratio: 96.481705%
+Packingratio: 96.849823%
+Packingratio: 97.059631%
+Packingratio: 97.218704%
+Packingratio: 97.361374%
+Packingratio: 97.441864%
+Packingratio: 97.520065%
+Packingratio: 97.611618%
+Packingratio: 97.771835%
+Packingratio: 97.872543%
+Packingratio: 97.991562%
+Packingratio: 98.094177%
+Packingratio: 98.204422%
+Packingratio: 98.233414%
+Packingratio: 98.271942%
+Packingratio: 98.319626%
+Packingratio: 98.327637%
+Packingratio: 98.344040%
+Packingratio: 98.367691%
+Packingratio: 98.380661%
+Packingratio: 98.413467%
+Packingratio: 98.472595%
+Packingratio: 98.472595%
+Packingratio: 99.386597%
+Packingratio: 99.817276%
+Packingratio: 99.964142%
+Packingratio: 99.999237%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 1:49:40.973478
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Only Band in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
