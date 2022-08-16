@@ -1,0 +1,89 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 30/11/2021 19:11:31
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.22325727674696175 
+The Ideal volume is: 2018.5547
+Needed 231-Loops to sample points for the bands!
+
+RVE generation process has started with Band-creation 
+The total volume of the RVE is 30*30*30 = 27000 
+Sampled 197 Martensite-Points for band-Creation! 
+The total conti volume is: 2124.202818221669 
+The total discrete volume is: 2073.944091796875 
+Band generator - Bandwidth: [1.72526042], Left bound: [1.13736979] and Right bound: [2.86263021]
+Total number of attempts needed: 3950
+
+Elapsed time for band creation: 0:45:00.539070
+
+The Ideal volume is: 19404.1559
+The Ideal volume is: 5681.2872
+Needed 203-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 218 Ferrite-Points for the matrix! 
+The total conti volume is: 19404.824323937275 
+The total discrete volume is: 18948.73809814453 
+Sampled 199 Martensite-Islands for the matrix! 
+The total conti volume is: 6024.142374760965 
+The total discrete volume is: 5875.659942626953 
+
+Elapsed time for normal RSA: 0:45:54.463859
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 57.403183%
+Packingratio: 66.607666%
+Packingratio: 75.832367%
+Packingratio: 84.025574%
+Packingratio: 90.516281%
+Packingratio: 93.957138%
+Packingratio: 95.116043%
+Packingratio: 95.794678%
+Packingratio: 96.181107%
+Packingratio: 96.581650%
+Packingratio: 96.963882%
+Packingratio: 97.259140%
+Packingratio: 97.527313%
+Packingratio: 97.845840%
+Packingratio: 97.909546%
+Packingratio: 98.004150%
+Packingratio: 98.083878%
+Packingratio: 98.173904%
+Packingratio: 98.247528%
+Packingratio: 98.322296%
+Packingratio: 98.382187%
+Packingratio: 98.412704%
+Packingratio: 98.458099%
+Packingratio: 98.587418%
+Packingratio: 98.754883%
+Packingratio: 98.811722%
+Packingratio: 98.926163%
+Packingratio: 98.989868%
+Packingratio: 98.994827%
+Packingratio: 99.007416%
+Packingratio: 99.043655%
+Packingratio: 99.116516%
+Packingratio: 99.145508%
+Packingratio: 99.713516%
+Packingratio: 99.943161%
+Packingratio: 99.997330%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 1:20:21.668833
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Only Band in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
