@@ -1,0 +1,32 @@
+-----------------------------------------------------------
+---------------------RVE-Specifications--------------------
+-----------------------------------------------------------
+
+
+Created at: 16/11/2021
+
+Size of the RVE 30µm - 64
+Solver Typ: Spectral
+
+Number of Bands: 2.0
+bandwidth: 4.166666666666667µm
+bandwidth: 4.557291666666667µm
+Phase ratios:
+ 	Overall-percentage: 30.14560275607639%
+ 	Band-Percentage: 34.89583333333333%
+ 	Island-Percentage: -4.750230577256942%
+No inclusions in the RVE! 
+
+For informations, contributing etc. please contact the DRAGEN-Team:
+	DRAGen@iehk.rwth-aachen.de
+
+
+
+ The grid volumes are: 
+Ferrite - 63.70392
+Martensite - 36.29608
+
+
+ The grid volumes are: 
+Ferrite - 63.70392
+Martensite - 36.29608
