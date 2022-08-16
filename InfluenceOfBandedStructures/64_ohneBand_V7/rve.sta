@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 19/11/2021 17:27:06
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.2701911926269531 
+
+Needed 93-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 226 Ferrite-Points for the matrix! 
+The total conti volume is: 19734.696863764486 
+The total discrete volume is: 19276.165008544922 
+Sampled 92 Martensite-Islands for the matrix! 
+The total conti volume is: 9399.109679952611 
+The total discrete volume is: 9174.545288085938 
+
+Elapsed time for normal RSA: 2:39:46.985513
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 61.041641%
+Packingratio: 69.900513%
+Packingratio: 78.429794%
+Packingratio: 85.975266%
+Packingratio: 91.950226%
+Packingratio: 96.116638%
+Packingratio: 98.355865%
+Packingratio: 99.347687%
+Packingratio: 99.713516%
+Packingratio: 99.819565%
+Packingratio: 99.861908%
+Packingratio: 99.887466%
+Packingratio: 99.925995%
+Packingratio: 99.961090%
+Packingratio: 99.981689%
+Packingratio: 99.990845%
+Packingratio: 99.996567%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 1:08:50.181080
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Nothing despite grains in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
