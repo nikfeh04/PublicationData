@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------
+----------------------------RVE Generation started----------------------------
+------------------------------------------------------------------------------
+
+
+Starttime: 29/11/2021 18:51:25
+
+
+Calculating the phase ratio...
+The phase ratio for the rest of the volume is: 0.289532979329427 
+The Ideal volume is: 19182.6096
+The Ideal volume is: 7817.3904
+Needed 269-Loops to sample points for the bands!
+RVE generation process continues with placing of the ferrite grains and martensite islands 
+Sampled 165 Ferrite-Points for the matrix! 
+The total conti volume is: 19328.63513296769 
+The total discrete volume is: 18875.404357910156 
+Sampled 260 Martensite-Islands for the matrix! 
+The total conti volume is: 8072.038047656296 
+The total discrete volume is: 7880.802154541016 
+
+Elapsed time for normal RSA: 1:09:37.674099
+
+
+
+RVE generation process continues with the tesselation of grains!
+Packingratio: 58.799744%
+Packingratio: 68.666077%
+Packingratio: 78.278732%
+Packingratio: 86.723328%
+Packingratio: 93.100357%
+Packingratio: 96.301270%
+Packingratio: 97.475815%
+Packingratio: 98.112869%
+Packingratio: 98.444366%
+Packingratio: 98.697281%
+Packingratio: 98.880386%
+Packingratio: 98.936081%
+Packingratio: 99.003601%
+Packingratio: 99.047852%
+Packingratio: 99.090576%
+Packingratio: 99.129486%
+Packingratio: 99.195862%
+Packingratio: 99.259186%
+Packingratio: 99.335861%
+Packingratio: 99.428558%
+Packingratio: 99.498749%
+Packingratio: 99.592209%
+Packingratio: 99.734497%
+Packingratio: 99.735641%
+Packingratio: 99.736786%
+Packingratio: 99.738693%
+Packingratio: 99.740601%
+Packingratio: 99.740601%
+Packingratio: 99.962234%
+Packingratio: 100.000000%
+Elapsed time for Tesselation: 0:44:08.518420
+
+
+
+RVE generation process nearly complete: Creating input for DAMASK Spectral now: 
+Nothing despite grains in RVE: 
+Attention: Discrete and continuous Output are equal for the spectral grid! 
+
+
+RVE generation process has successfully completed... 
+------------------------------------------------------------------------------
+-----------------------------RVE Generation ended-----------------------------
+------------------------------------------------------------------------------
