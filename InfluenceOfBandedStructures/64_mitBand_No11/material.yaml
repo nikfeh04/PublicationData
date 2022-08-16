@@ -1,0 +1,1710 @@
+material:
+  - constituents:
+      - phase: Ferrite
+        O: [0.7291700585294024, 0.09485211667501998, -0.3851070714762475, -0.5576796976809221]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.37261129241521906, 0.5991026311656313, -0.12329244174456158, 0.6978795282165408]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.21501303145502157, -0.3922022385087086, -0.38501045536716677, -0.8072878976370491]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4496818385018477, 0.5802679226600556, 0.6490872030776991, -0.1994020683296739]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.577602492150238, -0.6807300569941104, 0.25335534184800085, 0.37254935421191127]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6953933647631154, 0.21956345799618668, -0.2763192447183148, -0.6259933155829138]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5213250922141507, 0.7260929740902105, -0.2420436297632596, 0.37739107368321057]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9935692552051365, 0.024781479662718195, 0.10996816313545633, -0.010630920630420797]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.786384560379573, 0.03690722825446076, 0.5873430855983067, 0.18779052025876788]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.03501452269353242, 0.8380782066394035, -0.3671557525968824, 0.40198949748922835]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.39630745096153663, 0.3617958272670119, 0.6505592019401749, 0.5374168851604034]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.14782315811410593, 0.30134614304894525, 0.7261940253517271, 0.5999842110740514]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5510828030219411, 0.2419906347484453, -0.5902382595474047, 0.5379285025670005]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.02568737145677084, 0.5087490662753662, 0.5520323995992648, 0.6601323930123885]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.028600435023768463, 0.07299361612483543, 0.6326706297472072, 0.7704426139413263]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.41353658953873534, -0.47021399993528135, 0.7600672726728966, 0.17373550123425952]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.45185161588363076, 0.221712434617601, 0.7443172904851603, 0.4389367661111536]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.13400541718828585, -0.3173169064305333, 0.921366751224049, -0.18009952469784904]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.019271485537746363, -0.4608053922327914, 0.6505087439756863, -0.603428019191624]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8294150328514888, 0.32093446158084504, 0.4321890219740658, -0.14927968359719074]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.027229348292666017, 0.7382393775033017, -0.2664846661908813, -0.619069549227087]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.12496699761115093, -0.2952981570972648, -0.9469002018010886, 0.023711932693717786]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.55494940743821, 0.5489535899727552, 0.6041676994610943, -0.1601952002024168]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.721450149007363, -0.03600480990531326, -0.6642722412787202, 0.19223872041678186]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9367806906177575, -0.33867251272112175, -0.016802960396389444, 0.08637434419314688]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8206801692794258, 0.39900739955838266, -0.40889660496409524, -0.008984503213128998]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.876697434336288, -0.4338754700613703, -0.07225375333533955, 0.1947641656880212]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8211655504678839, -0.1513979022410585, -0.5468993236096141, 0.060555295037929724]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8551433113665486, -0.30070227247244574, -0.42030340026591717, 0.04065848103248954]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.40341469434061605, -0.6034168387975893, 0.5913305300427811, -0.3513871188374936]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8931453170867344, -0.05936011980360125, -0.39100203703268477, -0.21420837000273724]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.29240094774928, 0.8400291682603481, -0.2588974263970729, 0.3765963420323182]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.07691783635378234, -0.4524779657889561, 0.5945737620141894, 0.6601737486832047]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.41759638609108507, -0.3925750318870924, 0.4829431614458382, 0.6620151097031041]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.14880032334964183, 0.0509092836439268, -0.5788981403277659, 0.8000897772968721]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5860226732497437, 0.14198476233196086, 0.7454496453703018, -0.28411719398876933]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.15262587463769475, 0.2834831358750961, -0.9047211587546435, -0.27896644774444757]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4087758145515652, -0.3460065354580837, -0.8443143326538725, 0.01775157833107607]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7084169286305598, 0.2872477584221599, -0.5481990246873671, 0.3392816084654578]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.19201124071165487, -0.8460917850050942, 0.378098876579487, 0.32295760451891237]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2712000661957988, 0.7342391145713618, -0.5252839504333813, 0.33379667186171563]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.10670306573531596, 0.9378092497711861, -0.1220380106802538, 0.3069771827929503]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.34540667956949234, 0.0015299998869672021, -0.14790120926813324, -0.9267238623808862]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5360576770867516, 0.03020060468934781, 0.40170268845800444, 0.7418659180730471]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.0006353279379271678, 0.08475636891707167, 0.5072066021027161, 0.8576464405976518]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.35978813547839233, -0.5476262326836452, -0.4859501068008732, -0.5783688274327378]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2386963843264183, 0.3027802902629411, -0.8062028539160969, 0.4487595015989349]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6313676378603648, -0.6671718500953967, -0.20819550423326894, 0.3360227080421257]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4018416775604781, -0.36392062737185593, -0.7493054967508671, -0.3802976672129239]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6624447016772921, 0.20967572844381946, -0.3661998920885903, 0.618951326968076]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.0986291026641322, 0.40077481489878364, 0.9107398762408506, -0.014308238022688682]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4613779226359805, 0.1370199809112394, 0.29406641907970155, -0.8257607877011551]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6627377110652056, -0.6828736462898041, -0.004588102818069351, 0.3073129656351166]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4764914462185404, -0.006468223442133228, -0.6413266766525417, 0.6013436268722507]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6004154121528136, 0.34161330197117984, 0.04654685536257671, 0.7215504660254679]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9843290338239136, 0.05495419476349861, 0.12601229699461158, 0.11044134486376886]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7664968106106927, -0.034392686558357415, -0.6257456458552121, 0.14050682947165977]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.06846922830284373, 0.6256540101591667, -0.759942723927626, 0.16234555952297106]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3464609494935742, -0.07301995532278567, -0.9335321213111081, -0.05613087457943159]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.728258056750754, -0.25613746046083946, 0.542085590321577, -0.3319292347654765]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2068170437444332, 0.5268552207392416, 0.24783978031165718, -0.7862733176775667]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.25461015694344097, 0.35529979349826885, 0.8519053520958553, -0.28843196042006275]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.025834626226535394, -0.5548716625179542, -0.8289314552765645, 0.06574688338905367]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.11872503233772366, 0.04219407085068283, -0.6896035042441968, -0.7131416647592385]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3098564065339794, 0.6507612302147848, -0.6381358499411431, 0.2707054960636816]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.15139655982213074, -0.38428091503094086, 0.05234215510892926, 0.909212603748738]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8321108986407789, -0.28893114825995825, 0.47128916948503713, -0.044685150268532925]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8867686158288899, 0.43939361563487156, 0.07046651124776829, -0.12493655715121046]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5816641445409034, 0.6566322041035686, 0.47962361574990603, 0.02149787674573582]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.21433709766980133, 0.40386058132594804, 0.8884269100515891, 0.040667737947159395]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8222816062883329, -0.28094536413484467, -0.3767033248109047, 0.3209630312161023]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.22571389925307395, -0.7762510959452403, 0.11857498454669237, 0.5765652129356559]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6282552483564411, -0.40398065000944283, 0.6622822002780838, 0.05896833493795368]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5551885856381101, -0.15064422291853086, 0.79495571809352, -0.19265865863968523]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.36117840268246276, -0.049338518937779775, -0.6623357431924729, 0.6545435319934386]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5291914459198306, -0.629300973228302, 0.4290778112664592, -0.3739370676169665]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6222694897807133, -0.034273725236694856, -0.28708293719474753, -0.7274540404850928]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8520935159136603, -0.2751208507045655, -0.4392073114475205, 0.07308963822959907]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.07649014539787294, -0.4282994673807288, 0.09780402198459781, 0.8950660295095734]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.20899503368255476, 0.617639928620353, 0.7551958440129014, -0.06724010451742661]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7240807228885149, -0.5825797642936289, 0.26952339454512847, -0.2523193705796219]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8669135375223659, -0.06371021114458057, 0.2963771472467293, 0.3956798125331403]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4677906997203766, 0.3510371063104425, 0.727588534711412, -0.3585522770877516]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.23482754889264362, 0.3817586907472754, -0.8898577200469703, -0.0852617287697535]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.1076264403293985, -0.039908840094336706, -0.7217124598536395, 0.6826089357138214]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8023123991522645, -0.5949244536952235, 0.044379925496093355, -0.019751728403821875]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3796800014442395, -0.4203181235483339, 0.32710961460213916, -0.7564225482856455]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.9085105011259521, -0.39314732128508634, -0.14056009140563366, -0.016932625734731817]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5196369348211611, 0.41646917176618825, -0.38846403090355575, -0.6368882018315419]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.05091873546082188, 0.4979017847029448, 0.7414605448937248, -0.44691985359188724]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.09524098276586739, -0.9345858056598966, 0.3042427991266829, -0.1578443734834875]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2238869053465712, 0.2027351074028179, -0.8846294947256019, -0.3552517232924136]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7591896975135229, 0.42676472145793587, -0.3770109740819341, 0.31522309739301657]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9448694728334753, -0.092400351428465, -0.09815333398236102, 0.2984120932392547]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5977174788450318, 0.42756466917829156, -0.6632187712454191, 0.1416443808321163]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.12382672136605752, -0.931947676916211, 0.27322507160475923, 0.20368733591655702]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.11172307818118682, 0.05107844124384878, 0.5399743569650983, -0.8326683856505828]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3020319093887456, 0.5812067083712705, 0.5716846159696589, -0.4941175849115726]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4847720883444338, 0.5486689187792879, 0.6557775631845876, 0.18415815906830757]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.04457866796246099, -0.8761554869273779, -0.2227548163839052, -0.42514067891406787]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.873032346320756, 0.1687999676276812, 0.11708977175148569, 0.4422794123150593]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8372349025150887, 0.2030387097339243, -0.2606558397618117, 0.43574250832136835]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.826905371362267, -0.04059326993690954, 0.0939906052626715, -0.5529425461749322]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.688112708303331, 0.6419518522520877, 0.24739266103814958, -0.2306416946825353]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.03058203450941378, 0.4943521487386751, -0.2333016401930541, 0.8368100363200424]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.08760351962906991, -0.2995853009158708, 0.5515331239667507, 0.7735538016138394]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.31966306772490344, 0.09080098459303816, -0.7904248958468572, -0.5145864245732914]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9024875066896313, 0.018255431420574383, -0.28443524872422926, -0.3229235649127627]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.973941695832339, 0.1993480619020768, -0.08029847268495256, -0.07245742625554231]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7985617592076624, -0.34153754650151363, 0.42896500399963006, -0.24827453837332428]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.49617343868443087, -0.7151711943990805, 0.4650328219865006, -0.1615133304750158]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.850325081877881, 0.09204585836924789, 0.5129867669858321, -0.07293416198097348]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2867097003586162, -0.050945356720030435, 0.2979055881162347, -0.9090953629394782]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.47951232134844596, 0.080090170168983, -0.6771901011838666, 0.5523287654793225]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3265567024885413, 0.21413546071989167, 0.8944168885134305, -0.21800264691981097]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5892922105775824, 0.07693278372869439, -0.7350710206349863, 0.3263228952479121]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5186837453476235, 0.643283452443481, 0.35275655773801795, -0.4389947415372784]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.30632478536484714, -0.39121245867662646, 0.3576946549246262, -0.7906784883160296]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8083839560479327, 0.47205955874189914, -0.33772592513003385, -0.09806300066671554]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5557116526449268, 0.6221945042569001, -0.19254609289881996, 0.5167054868070917]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7971482397915274, -0.540661596869049, 0.12833991898988026, 0.2361537352276067]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5911044235883292, -0.42494211587528846, 0.18671319310679177, -0.6596650226361922]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.22906205019086687, 0.6184993727790294, 0.730241730617433, -0.17814633843882513]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4193221775261801, 0.34072329116970174, -0.2568578396964524, -0.8013117997856146]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.04129321884128412, 0.20546466711417638, -0.6810906446002508, 0.7015658732317311]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5277958324493002, 0.32281706607231314, -0.08218006300684924, 0.7813239650399855]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.041701727472369186, 0.10537060042723978, 0.5559930201345125, -0.8234256275178268]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7784977345698263, -0.053959374136407875, 0.6251858661038853, 0.013126158478029702]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7812884774879729, -0.48549709108972094, -0.19665013426558178, -0.3394254177006681]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.42162357664663, -0.06908551514995755, 0.8930078137622217, -0.1414135628989855]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.49071074236596485, 0.35158877108315334, -0.5282938033076798, -0.5970711521766798]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2507489719864895, -0.17106148555982834, 0.2630155626475953, -0.9157978679877739]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.20320190012964834, 0.15884342135355303, 0.44075292982212405, -0.8597759069255266]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6162177871305923, -0.48266181443270995, 0.5942707393723428, 0.18481206680909523]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.18873143625430144, -0.7060355187292802, -0.5997348953487164, -0.3259023574065231]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.15263074635781945, -0.7665786882507225, 0.43840989735373936, 0.44368652434837397]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3605051790319532, 0.6198122861409876, 0.5576431745059969, -0.41821386367108415]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2099362413072542, 0.6515620247036098, 0.04736682065018325, -0.7274270319773717]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.13097073323431682, -0.3667182187321901, 0.23691865426105224, -0.8900752588119091]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4115060239137854, 0.5789288916188586, 0.18657427355954398, -0.6787445551732667]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.11816807015111871, -0.6451797884020181, 0.5839306224321479, -0.47833500396719025]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.052989536100236934, 0.9692861384396119, -0.019164385431569734, 0.23939343604981636]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.030239814528071163, 0.7304025932242683, 0.6678123962017956, -0.14008643370358217]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8830790582089736, 0.006154016314727209, -0.33410435272275496, -0.3294052011241768]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.05633163985996858, 0.21580747979501128, -0.5160723779303074, 0.8269964804958789]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.681040200884558, 0.6551536842874549, -0.26313222656401103, -0.19421463921950002]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.84324602548719, 0.04702108534289476, -0.16879089213699766, 0.508168075310551]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.14712390727029434, -0.885206286082373, -0.24738669396311222, 0.36546437670418047]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.42337257534600353, 0.5242625244490471, -0.5699807817229416, 0.4701344237233742]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5957309651803389, -0.7633138015477395, 0.21877997868378385, -0.12079726163768403]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3943999420310954, 0.662305242706151, -0.292749843133559, 0.5657720217146582]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5479634726524482, 0.04892799530232459, 0.5659821685456071, 0.6140083621603026]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.11212502684748608, 0.6891371938283498, 0.6561752541975591, 0.2862724964358376]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.36430252431318433, -0.2835669168674508, 0.6876871533007721, 0.5603212057582778]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.41671557247110025, 0.2121538713568377, 0.4986524045250784, -0.7298524823481435]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6054708889900361, -0.5502907799649714, -0.5117861106786205, 0.26203060315087184]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9559672577595562, -0.29090236996431196, 0.03205514041206092, 0.021791769409203958]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6568617125895477, 0.42903263316157775, -0.6134193250167742, -0.09044568487404198]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2870967540452094, 0.5773164844437105, 0.055614374480252804, 0.762356984592802]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8456095751020862, 0.44431283610437616, 0.18423860705355183, 0.23148798206283136]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4395890821749781, -0.40958068706715806, 0.7107827002000067, 0.3657773266764119]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.9254386311107686, -0.04376857786508612, 0.26925377268004014, -0.2629639852471434]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.020218681889466322, -0.40149568320200024, 0.1572148200053909, -0.9020398669922989]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8131586382052962, -0.5371865070537589, 0.21642487426874793, -0.05799965128556115]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7582373106399524, 0.2394137837098503, -0.560785354550839, -0.23081812546789945]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.08355033703370955, -0.9368816085432815, -0.1524062682696445, 0.3033884014708344]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.1506549958326116, -0.3473370461515929, -0.273948677486534, 0.8840883274338265]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3513904548880598, 0.860062927098678, 0.22996674297007624, 0.28970986654194464]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.166173643707877, 0.9396829979741068, -0.13034423463243083, 0.2690586626617479]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7686550632719913, 0.010512132932301483, 0.546215184961805, -0.332727907583187]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3943831669629356, -0.8610957554671322, -0.32021623577469377, 0.020918410050950378]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.09420815608353127, 0.9464494394364447, 0.29675317876808804, 0.08541564733007581]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8856382430088415, 0.4625733530232689, 0.019738509520014706, -0.035793670319633056]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.10592805333282518, 0.35010619469310617, -0.06624621686238105, -0.9283406372157008]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6126725007200468, 0.48478049285857144, 0.007792807181136409, 0.6241470602041496]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5584622173870898, -0.2194387411251337, 0.6540447671969244, -0.4606430647983667]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.1567609181632038, -0.629666755799763, -0.13740188712409354, 0.7483759166301176]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.30826731299642823, 0.4285285666231147, -0.8201877669065687, 0.22051430416804493]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.799067676232101, 0.5924178411399265, 0.023880698221406836, -0.09980812868998906]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6712914435464714, -0.39714864643147096, 0.2656295741091536, 0.5666406972831503]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5444354516606204, -0.4457237790790045, 0.5967321903832062, -0.38578626815775585]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.11857479539190752, -0.8901568302470019, -0.3989638173578033, -0.18544192595437287]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.444535396327375, 0.04365219516310956, -0.6641824017248442, 0.5994535048763358]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2439311719767576, -0.7004772601183407, 0.6232063555056259, 0.2478770458363249]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.43746507280262387, 0.6034690096633778, 0.555652206883238, -0.36837493052525194]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.24979307448133858, 0.08534777061648553, -0.8993399748547625, -0.3485782374448977]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.022511628450732738, -0.7113573294374609, -0.6216089452523641, 0.32720986479986097]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.01629632247576104, 0.20386943641481797, 0.5935709050671307, 0.7783606255634067]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5300000032134579, -0.23015982696558895, -0.8066175126916257, -0.12447746327781549]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5136113134950355, -0.08511101517593678, 0.049637331110923916, -0.8523471529287878]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.18123482651171788, -0.1260975295406546, 0.7238095943988136, 0.653722434798773]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4926405630225212, 0.4665307193189188, 0.3609920014197702, 0.6397961695005481]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.39617647871844713, 0.810027176241285, -0.3992531485717815, -0.16582247982810128]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5611150126846025, 0.4245498752097121, -0.5816463168549731, 0.4081603950512841]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.16878532313152003, 0.9138222839936292, -0.297748929072467, -0.2185999158468603]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7021683238306491, 0.1372895308823936, -0.01633637750014956, 0.6984585545965641]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.9808528051259934, -0.06251379577641147, -0.094402075538157, -0.15845519287225396]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5564107060404723, 0.8046865283445525, 0.20490029086975806, 0.030043104130957173]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.0033760225631275422, -0.9601173273994386, 0.06524927385475296, -0.271856308296203]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.03326565500149506, -0.23570216772066815, 0.4005329949045307, -0.884822696545419]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6038949369619103, 0.5980624624631071, 0.3716549086573748, 0.3735034470727323]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3990862794727547, 0.09825102118396496, 0.706999773742431, -0.5755242812436793]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.24378908362992785, 0.5817921269973906, -0.6208116138049901, -0.4654865667573834]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2942928520631181, -0.8099734921139337, 0.2224587510135392, -0.4559021423450555]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.35973025018589005, -0.43223938037790227, -0.36746503564963184, -0.7407649510652746]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8160998549334514, -0.3569823327702636, 0.3465554859584423, -0.2940134963222065]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.952579155594483, 0.08772403826344605, 0.23149339269042324, 0.17694138740931342]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5785477187240594, -0.6383787817271448, -0.4427995766269199, 0.24836183913551155]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.03582233815125018, 0.9670916482038218, 0.22724234366870405, -0.10868036302730813]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.1334220867271244, -0.8706434899722926, 0.46626883298879523, 0.08229116310706258]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.9119157725027477, -0.09745702046497222, -0.3986256364717376, 0.00305858959472345]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.28888538253572305, 0.7244776422449507, 0.08310664659656054, -0.6202988529216062]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5423818703158985, 0.5065974091674003, 0.4159539253759882, -0.5255124201594216]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7621431725697144, -0.37877888125174575, -0.2309702179862648, -0.47150514528096465]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8956959227352049, -0.3021318444142914, 0.09948989242123982, -0.3107200088381153]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.456459358496623, 0.4943524635684734, 0.17812209818167798, -0.7180062770923311]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.30320332992857574, 0.8876322779751951, 0.029110566308980006, 0.34544066747555896]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6351821741339384, -0.7189235302217138, -0.12314222410690953, 0.25402471532911003]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.31777004439954776, 0.2313386463424566, -0.015396855717720835, 0.9193843409721295]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5639107573879989, 0.37022542827802085, 0.6975110199920157, 0.2416943668109525]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.64590363956913, -0.46114258481658726, 0.2508648229541339, 0.554276867155954]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5380716695624181, -0.11099349018199689, 0.06958487773082969, 0.8326567530157408]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4824373397333373, 0.8668058167279682, -0.09885611870215948, -0.07829021083587043]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5908522906272808, 0.2613390458116687, -0.6297012345914216, -0.431360439712291]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3502715783097732, 0.17886974050504476, 0.8180415547732155, -0.41967064708442353]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.747493116230973, -0.4816019040063411, -0.23295033211364094, -0.3937610824001282]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.63675308164931, 0.05503744863576511, 0.6763881507046509, 0.36608122301494134]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6725548510296142, 0.04820664257142005, 0.668344717160492, 0.31410417222983]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5587141593321964, -0.08989370856182548, 0.07796351916360059, -0.8207796896867914]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.535571369053665, -0.12362418686579997, -0.36950284781302023, 0.749231616077312]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5523754092986589, 0.7327310803663375, -0.2534311333098846, -0.3062012928395083]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.21648485690596694, 0.3985923854877352, -0.7694470375088487, -0.4496772992162892]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8377579243028718, -0.012891559681614432, -0.27405809735303527, -0.47210976184776493]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.9495541060750592, -0.06466768051157296, -0.2290475265784985, 0.20421146221875103]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.001121264251869675, -0.23722600002179803, 0.7578975896034786, -0.6077119476802908]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7069683959131823, -0.04268279593060713, -0.20529449798056268, -0.6754465450429047]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.36041992377216253, -0.3462601315110247, 0.7593193543546662, -0.4166959538757838]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2957704917476433, 0.9345040374808384, 0.0034391846598732945, 0.1980156361306964]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.022799908611763706, 0.35889897545163885, -0.7707326329265972, -0.5259685334020413]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7431046929235006, 0.42290484678211365, 0.04180294194925189, 0.5169133582793681]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6156977320430963, 0.7553533383756298, 0.18742927792268382, 0.12340138872460257]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.23667280211361644, 0.04426709028997994, -0.8514639108592718, -0.4658708168164022]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7340464370445401, -0.6268803591265544, 0.17720664880491058, -0.19181930878540682]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2153272519376464, 0.07533110181798214, -0.09910125849394469, -0.9685754179395565]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.4814011577890422, 0.3983663349104864, -0.7340116858155792, -0.2660526894724565]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8508104448692548, 0.06553957911982441, -0.49768708191942523, -0.1553503104622075]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.046066790314324306, -0.5704491452064268, -0.17278776617130268, -0.8016295973982773]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.06941391592403758, -0.8271525126900192, -0.3552510537043706, 0.42988035296883786]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.04389729105525142, 0.9603328715431637, 0.13743021091473356, -0.23863516253813882]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.18633779360293448, -0.9402707243551883, 0.27414507337724037, 0.07754785837627652]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.27958971819081896, 0.6867393270841818, -0.039709992957536175, -0.669807287641196]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5128574084701014, -0.519659879566842, 0.22313535651441635, 0.6458649245926665]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3199982818388331, 0.18609710804634177, -0.29406894045225224, -0.881188075417656]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.250065321374353, -0.20013402671056937, 0.9295242621610479, -0.1827521612800089]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3713645710195469, 0.3263574480266031, -0.6747949978978374, 0.5479332827280058]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.023871071588561638, -0.35588249958158796, 0.9293562795800872, -0.09526134597953997]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6189151485832631, -0.18665699772858926, 0.15366196362620194, 0.7473226913373141]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.09887777187584544, 0.7832790104162237, 0.5949516456541062, -0.15076378014536726]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7338288802382812, -0.5501596333121913, -0.26684581065393137, 0.29599470559196117]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.44663237277284573, 0.6668146082020664, -0.5953428619951192, 0.038008927255093486]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8456932681884128, 0.43784528387201394, -0.25746818504380165, 0.16372091259850552]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.938317441487763, 0.12294029151625162, 0.018895392605435095, 0.32262831224188]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.512171025614689, -0.39244324698735356, 0.5432509318132183, -0.5371662345111528]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5571302926367141, -0.3397578481766893, -0.09622842402252212, 0.7516053033600925]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.16435034468911178, -0.46465207354596705, -0.15554005888381534, -0.8560926964017522]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.38852768252827774, 0.2682277859535756, -0.26738429412821996, 0.8400034130914006]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3953707207991637, 0.5370261046194802, -0.2569074830383711, -0.6994880279539214]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5388142256788275, -0.1489456816724035, -0.05729719357701611, 0.8271707476243744]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7996445991262315, -0.4743962765590039, -0.22472897862137145, 0.29157087310463053]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.35017730876410974, 0.37520291115879084, -0.7479316040587639, -0.4209476731552013]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2701243948373619, 0.12844835601049415, 0.7139529793823602, -0.6330916003099404]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.08484274232564618, 0.9148178845106072, -0.0913689920544139, -0.3841375463882201]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7077084512305729, 0.09679078043630053, 0.3419389800737408, 0.6106210173139192]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5769034442375757, 0.6901864916672139, -0.16122872928740514, -0.4059930043723586]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7229300827971253, 0.10346912289650659, 0.052099837320451585, -0.6811401052244329]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3770676895225251, 0.6567945865532806, -0.47255158215736776, 0.4507059249588564]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2358919236284028, -0.8630439883803989, 0.4426529060996045, -0.05973674923295072]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6726563483850929, 0.5025138661948295, 0.0628752892362175, -0.5394997212813178]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6764184928597731, -0.24272465186230816, 0.367756360057635, 0.5901677943879972]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8888311003951261, 0.08189227099908121, 0.044157090840212236, -0.4486904080204206]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.07526082736300044, -0.5718525478205102, -0.8042709402084289, 0.14306895593411437]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6861616224933054, 0.5228468051185851, -0.21808565258183904, -0.45634646304381105]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.3790841184072238, -0.283532818093838, -0.3815506474250724, -0.793929137697246]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.7633620869336808, 0.05552789575139565, 0.20318870581304982, 0.6106630223418605]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.5375168194358055, 0.3790885975942769, 0.7465966692443131, 0.0998043960500635]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6539177694895845, -0.042101444016645215, 0.5114955222523578, 0.5558699037304212]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8460397377698368, 0.3062652313261282, 0.32719521385840633, -0.2887241975021329]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.49441450102977114, -0.1678630881503293, 0.6421421002901758, -0.5612751623250747]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.012535884510343844, 0.4272856939707468, 0.8629125286206122, -0.2695398955202396]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.6312806106978512, -0.20213376838918543, 0.49855818539534075, -0.5586290952045375]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.14491119804415503, 0.566051368036994, -0.31658859089145575, -0.7472337368870718]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.19759572559498595, 0.5222253142649709, -0.030073504148057855, 0.8290550251435065]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2550237337497542, 0.38304057083401205, -0.6005134144736081, 0.6539315372091618]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5179055973587419, -0.6426330283420201, 0.35636051343969366, 0.4379540701596995]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.8155554010684285, -0.4137852856510883, -0.40292004006033943, -0.03614645881046181]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.42788493636575103, -0.5401266040489331, 0.12860323061964815, -0.7131892749502293]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.35987938858668744, 0.3497575415681515, -0.7699240007276805, 0.39417448026243085]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.37166250318619204, 0.7891060119281199, 0.391044023079383, -0.2937060736146984]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5197119718722667, -0.1700396787872446, 0.6317010237289293, 0.5494904826749901]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2021231244202572, 0.20309984350040255, 0.3243146199480072, -0.901508027381168]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5820163632607676, 0.16503380597839878, -0.43232146959834533, -0.6686695317608853]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2815440643066571, -0.9087406541240699, -0.03314462927421955, 0.3063083363967116]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8025766019863434, -0.37754799193946564, 0.45739595036615804, -0.0641658500697259]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.11168697651465868, -0.24820542966345763, -0.8472935354041693, 0.45608524293699315]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.0727349209735714, -0.01787769938963389, 0.902365086301699, 0.424414031529625]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.22652943380227328, -0.02373788128519836, -0.7833724916785025, 0.5783151977034028]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.36810078328439017, -0.84010925324371, -0.05317292452638136, 0.39483021168221916]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4857269972196611, -0.3591038491868534, -0.7969226692398484, -0.005288565286740546]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.14571581191154742, 0.06543437298900973, 0.42361798612838686, 0.8916462565496608]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.541510085862966, -0.5801661700053917, 0.33503144951712593, -0.5078660944820116]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4345056291084929, -0.733281009743247, 0.3992589323148549, 0.3377811776724084]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.09998964424629131, 0.8852355675440623, -0.4474326236088004, -0.07851183559812938]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.19582526029082958, -0.9414041079351327, -0.07675005242603096, -0.2636668398708627]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.3646271239588733, -0.8048105529864634, -0.04477680100499082, 0.4661781551798227]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.490014860650042, -0.19828059308862186, 0.4523855423623545, -0.7182740172163147]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.4076574762182442, 0.3831178241380438, 0.7147153080093358, 0.4197834482304213]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.415066955847146, 0.3833757718018469, -0.7913792401306464, 0.23336953110755948]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2892967425387342, -0.6574335071131169, 0.4312192780399472, -0.5460206156622031]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.08838057438478775, 0.9701751029525469, -0.17621757067757027, 0.14105499447706701]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.2729032559859483, -0.4493559128206798, -0.681590411770063, 0.5089573528975465]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5613292057541501, 0.8038878325064852, 0.13918214031480008, -0.13893238403205885]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Ferrite
+        O: [0.18694040157077746, 0.5509268423894399, 0.7863905495949755, 0.2076603094071428]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.7188167713858657, -0.2709089536973134, -0.34203355469274255, 0.5412243854865315]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.14820687654798645, -0.8093988439603983, -0.08955035564738975, 0.5611496831887964]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.24718341269206723, -0.49514351611974006, -0.2790196455429703, 0.7847810499340303]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.43523622137626433, 0.40113850936344286, -0.5939011087382032, -0.5449209125619233]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.6805551288110875, 0.6838150144444114, 0.044724011225805514, 0.25930967102903774]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5408391300685547, -0.38171980635670566, -0.5413812633436491, -0.518352536911051]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8561723141215793, 0.015837011785070146, 0.40429217541054385, 0.321350267607216]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2766420785296742, -0.6140855900094858, 0.6477487727777432, 0.3560752390919802]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.27133843982772027, 0.06078360649294414, 0.5452941265207091, -0.7907813350323758]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.9364956094230683, 0.28967453853477376, -0.12427809420999811, 0.15368666355774865]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.5263071271168994, 0.12310731459738519, -0.12439243832356471, -0.8320888884767627]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.2537759068477249, -0.07314102588066763, 0.672068391702713, -0.6917891704203435]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.8403051083610493, 0.10327589534785449, 0.3802262303359772, -0.37235658724791837]
+        v: 1.0
+    homogenization: SX
+  - constituents:
+      - phase: Martensite
+        O: [0.05936170687559433, 0.8326321923128404, 0.014721418391597737, -0.5504390065408418]
+        v: 1.0
+    homogenization: SX
+
+homogenization:
+  SX:
+    N_constituents: 1
+    mechanical: {type: pass}
+
+phase:
+  Ferrite:
+    lattice: cI
+    mechanical:
+      output: [F, P]
+      elastic: {type: Hooke, C_11: 233300000000.0, C_12: 135500000000.0, C_44: 128000000000.0}
+      plastic:
+        type: phenopowerlaw
+        N_sl: [12, 12]
+        a_sl: 4.5
+        atol_xi: 1
+        dot_gamma_0_sl: 0.001
+        h_0_sl-sl: 625.e6
+        h_sl-sl: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        n_sl: 5.0
+        xi_0_sl: [150.e6, 150e6]
+        xi_inf_sl: [400.e6, 400e6]
+  Martensite:
+    lattice: cI
+    mechanical:
+      output: [F, P]
+      elastic: {type: Hooke, C_11: 417400000000.0, C_12: 242400000000.0, C_44: 211100000000.0}
+      plastic: {type: isotropic, xi_0: 250000000, xi_inf: 750000000, dot_gamma_0: 0.001, n: 30, M: 3, h_0: 2500000000, a: 1.25, dilatation: false}
